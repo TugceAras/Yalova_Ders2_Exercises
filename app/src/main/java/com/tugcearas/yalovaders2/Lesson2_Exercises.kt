@@ -14,7 +14,7 @@ package com.tugcearas.yalovaders2
     islemleri tekrar ettirin. (yeniden birinci ve ikinci sayiyi aldirin vs.)
     - Ekstra kontroller koymak isteyen koyabilir. Ornegin, sonucun negatif cikmasini engelleme vs.
 
-    NOT : Olusturacaginiz degisken isimlerinizin ingilizce ve camel case seklinde olmasina dikkat edelim. ⭐
+    NOT : Olusturacaginiz degisken isimlerinizin ingilizce ve camel case seklinde olmasina dikkat edelim.⭐
 
 
     2)
