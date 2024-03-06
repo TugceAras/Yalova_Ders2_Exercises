@@ -23,7 +23,7 @@ package com.tugcearas.yalovaders2
     - Bu iki array`in ayni indekslerine karsilik gelen sayilari toplayip yeni bir array olusturun.
     - Yeni olusan Array`in elemanlarini konsola yazdirin.
 
-    (Acaba yeni olusan array`i Array class`ndan olusturup expression kullanimi mi yapsam yoksa... 🤔🤷‍♀️)
+    (Acaba yeni olusan array`i Array class`ndan olusturup expression kullanimi mi yapsam acaba yoksa... 🤔🤷‍♀️)
 
  */
 
