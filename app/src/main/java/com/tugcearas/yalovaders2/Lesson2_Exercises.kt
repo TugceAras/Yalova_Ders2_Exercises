@@ -12,7 +12,7 @@ package com.tugcearas.yalovaders2
     ve sonucu ekrana bastiralim. (Ornegin --> Sonuc : ...)
     - Islem tamamlandiktan sonra kullaniciya "Isleme devam etmek istiyor musunuz?" sorusunu yoneltin. Verecegi cevaba gore yukaridaki
     islemleri tekrar ettirin. (yeniden birinci ve ikinci sayiyi aldirin vs.)
-    - Ekstra kontroller koymak isteyen koyabilir. Ornegin, sonucun negatif cikmasini engelleme vs.
+    - Ekstra kontroller koymak isteyen koyabilir. Ornegin, sonucun negatif cikmasini engellemek gibi.
 
     NOT : Olusturacaginiz degisken isimlerinizin ingilizce ve camel case seklinde olmasina dikkat edelim.⭐
 
