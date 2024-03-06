@@ -534,6 +534,23 @@ fun main() {
     }
     println("New result : $newResult")
 
+    /*
+    val newInt = 5
+
+    var newResult:Int = if (newInt > 2){
+        if(newInt>4){
+            2
+        }else{
+            7
+        }
+    }else{
+        // code
+        // code
+        // code
+        7
+    }
+     */
+
 
     /*
         Karsilastirma Operatorleri
@@ -545,17 +562,17 @@ fun main() {
 
      */
 
-//    println("Notunuzu giriniz :")
-//    val examResult: Int = readln().toInt()
-//
-//    // if (examResult > 80 && examResult<=100)
-//    if (examResult in 81..100){
-//        println("Harf notunuz : AA")
-//    }else if (examResult in 61..79){
-//        println("Harf notunuz : BB")
-//    }else{
-//        println("Harf notunuz : CC")
-//    }
+    println("Notunuzu giriniz :")
+    val examResult: Int = readln().toInt()
+
+    // if (examResult > 80 && examResult<=100)
+    if (examResult in 81..100){
+        println("Harf notunuz : AA")
+    }else if (examResult in 61..79){
+        println("Harf notunuz : BB")
+    }else{
+        println("Harf notunuz : CC")
+    }
 
 
     /*
